@@ -1,0 +1,2 @@
+Path=/home/huyhoang8398/Desktop/youtube-comment-downloader/json
+IDTx=18
